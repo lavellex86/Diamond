@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="Lavelle.Diamond/Lavelle.Diamond.csproj" />
+  <Project Path="Testing/Testing.csproj" />
+</Solution>

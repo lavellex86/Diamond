@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/Lavelle.Diamond/bin/Debug/net9.0
+/Lavelle.Diamond/obj
+/Testing/bin/Debug/net9.0
+/Testing/obj
